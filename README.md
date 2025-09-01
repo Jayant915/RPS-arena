@@ -78,13 +78,6 @@ RPS-arena/
 └── README.md                # This file
 ```
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 🙌 Acknowledgments
 
